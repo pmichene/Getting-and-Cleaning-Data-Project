@@ -1,7 +1,7 @@
 # Getting-and-Cleaning-Data-Project
 Week 4 Project
 
-The script '''run_analysis.R''' that does the following.
+The script "run_analysis.R" that does the following.
 
 -Merges the training and the test sets to create one data set.
 
@@ -11,4 +11,4 @@ The script '''run_analysis.R''' that does the following.
 
 -Appropriately labels the data set with descriptive variable names.
 
--From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
+-From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject. (tidy_data.txt)
