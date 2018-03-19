@@ -1,7 +1,7 @@
 # Getting-and-Cleaning-Data-Project
 Week 4 Project
 
-The script 'run_analysis.R' that does the following.
+The script '''run_analysis.R''' that does the following.
 
 Merges the training and the test sets to create one data set.
 Extracts only the measurements on the mean and standard deviation for each measurement.
