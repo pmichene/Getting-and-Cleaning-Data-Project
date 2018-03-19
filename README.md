@@ -1,6 +1,16 @@
 # Getting-and-Cleaning-Data-Project
 Week 4 Project
 
+The following files are included in this repo.
+
+*README.md
+
+*Codebook.md
+
+*run_analysis.R
+
+*tidy_data.txt
+
 The script "run_analysis.R" that does the following.
 
 -Merges the training and the test sets to create one data set.
