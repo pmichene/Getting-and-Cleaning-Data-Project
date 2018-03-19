@@ -11,7 +11,7 @@ The following files are included in this repo.
 
 * tidy_data.txt
 
-The script "run_analysis.R" that does the following.
+The script "run_analysis.R" does the following.
 
 - Merges the training and the test sets to create one data set.
 
