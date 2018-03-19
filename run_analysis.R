@@ -17,7 +17,6 @@ library(dplyr)
 
 
 # Obtain data set if it is not in current working directory
-
 # Downloaded .zip file will be called PhoneData.zip
 DataFile <- "PhoneData.zip"
 
